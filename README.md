@@ -1,4 +1,5 @@
-# BMI Calculator
+# BMI Calculator   [![🔍 Preview!](https://img.shields.io/badge/🔍-Preview!-0a84ff?style=for-the-badge&logo=eye&logoColor=white)](https://nikashlamsal.github.io/BMI-Calculator/)
+
 
 A simple web-based BMI (Body Mass Index) calculator that allows users to input their height and weight, calculates their BMI, and displays the corresponding health category.
 
